@@ -1,0 +1,33 @@
+
+.img{
+    display: flex;
+      height: 100vh;
+      /* justify-content: center; */
+      /* align-items:end; */
+      flex-direction: column;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
+  
+   .dropdown{
+    text-align: end;
+    margin-right: 30px;
+    /* justify-content: end; */
+   }
+  
+   .nav{
+  margin-bottom: 315px;
+  color: white;
+  margin-left: 188px;
+  font-size: 70px;
+  font-weight: bolder;
+   }
+  
+    button{
+      box-sizing: content-box;
+    }
+  
+  
+  
+  

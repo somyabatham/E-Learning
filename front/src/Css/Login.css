@@ -1,0 +1,61 @@
+.imgl{
+    display: flex;
+    height: 500px;
+    width: 500px;
+    rotate:0 0 1 12deg;
+   
+    justify-content: center;
+    align-items: left;
+    flex-direction: column;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.login{
+    /* background-color: aquamarine; */
+    margin-top: 80px;
+    height: 520px;
+    width: 760px;
+    border: 2px solid black;
+    display: flex;
+    margin-left: 200px;
+  word-wrap: normal;
+
+}
+.box {
+    height: 500px;
+    width: 500px;
+    rotate:-10 1 -1 12deg;
+padding-top: 100px;
+   background-color: blue;
+    text-align: center;
+    color: whitesmoke;
+    font-size: 20px;
+    display: flex;
+ 
+    /* backdrop-filter: blur(2px); */
+    /* background-position: center; */
+    justify-content: center;
+    /* background: transparent; */
+    /* border: white solid 1px; */
+    /* border-radius: 20px; */
+    /* margin-left: 460px; */
+   /* margin-top: 168px; */
+
+}
+.box form{
+    rotate:0 1 -14 4deg ;
+    
+    align-items: center;
+}
+
+
+
+.btn{
+font-size: 18px;
+margin: 5px;
+
+
+
+}

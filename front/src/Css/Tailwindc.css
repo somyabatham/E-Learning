@@ -1,0 +1,22 @@
+.header{
+    background-color: #d1d8e0;
+    display: flex;
+    padding-top: 10px;
+    padding-left: 100px;
+    padding-right: 30px;
+    height: 65px;
+    border-radius: 8px;
+    border: 1.5px solid black;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.imgt{
+    padding-left: 2px;
+    padding-top: 4px;
+   height: 300px;
+   width: 1357px;
+}
+
+
+
